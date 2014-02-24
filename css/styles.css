@@ -1,5 +1,7 @@
 /* Your Website Styles */
-
+h3, h4, h5 {
+	font-family: 'Keania One', cursive;
+}
 
 /* Show Grid */
 .showgrid {
